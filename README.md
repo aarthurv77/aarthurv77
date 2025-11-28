@@ -1,6 +1,5 @@
 ### 👨‍💻 About Me
 
-```javascript
 const arthur = {
     name: "Arthur Vargas",
     located_in: "Brasília, Brazil",
