@@ -1,59 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?text=Arthur%20Vargas&animation=fadeIn&type=rect&color=00aaff&height=100&fontSize=40&align=left"/>
-
-<br>
-
 ### 👋 Hi, I'm Arthur!
 
-<br>
-
-<table border="0">
-  <tr>
-    <td width="55%" valign="center">
-      <ul>
-        <li>🌎 <strong>Brasília, Brazil</strong></li>
-        <li>💻 Data Analyst at <strong>ADASA</strong> | CS Student at <strong>UnB</strong></li>
-        <li>📧 Contact me at: <a href="mailto:arthur77fvargas@gmail.com">arthur77fvargas@gmail.com</a></li>
-        <li>🧠 Exploring <strong>Software Architecture & AI</strong></li>
-        <li>⚡ Always diving into <strong>New Tech</strong> (Java, Spring, AWS)</li>
-      </ul>
-    </td>
-    <td width="45%" valign="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-    </td>
-  </tr>
-</table>
+* 🌍 **Brasília, Brazil**
+* 💻 Data Analyst at **ADASA** | CS Student at **UnB**
+* 📧 Contact me at: [arthur77fvargas@gmail.com](mailto:arthur77fvargas@gmail.com)
+* 🧠 Exploring **Software Architecture & AI** for smart solutions
+* ⚡ Always diving into New Tech (**Docker, Spring, AWS**) 
 
 <br>
-
-<img src="https://github.com/aarthurv77/aarthurv77/blob/output/github-contribution-grid-snake.svg" width="100%"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aarthurv77/aarthurv77/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/aarthurv77/aarthurv77/blob/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://github.com/aarthurv77/aarthurv77/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 <br>
 
 ### 🌐 Let's Stay Connected:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/arthur-fernandes-vargas/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arthur77fvargas@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-fernandes-vargas/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur77fvargas@gmail.com)
 
 ### 💻 Technical Skills:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power_Apps-982578?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-982578?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
