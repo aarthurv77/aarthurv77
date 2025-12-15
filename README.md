@@ -3,8 +3,6 @@
 * 🌍 **Brasília, Brazil**
 * 💻 Data Analyst at **ADASA** | CS Student at **UnB**
 * 📧 Contact me at: [arthur77fvargas@gmail.com](mailto:arthur77fvargas@gmail.com)
-* 🧠 Exploring **Software Architecture & AI** for smart solutions
-* ⚡ Always diving into New Tech (**Docker, Spring, AWS**) 
 
 <br>
   <picture>
