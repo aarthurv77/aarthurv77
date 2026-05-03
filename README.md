@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm Arthur!
 
 * 🌍 **Brasília, Brazil**
-* 💻 Data Analyst at **ADASA** | CS Student at **UnB**
 * 📧 Contact me at: [arthur77fvargas@gmail.com](mailto:arthur77fvargas@gmail.com)
 
 <br>
